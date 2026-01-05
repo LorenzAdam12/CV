@@ -12,9 +12,10 @@ Welcome to my repository. Here you can find the current versions of my CV in Eng
 I am an **M.Sc. Applied Mathematics** student at the Karlsruhe Institute of Technology (KIT), focusing on **Computer Science** and **Electrical Engineering**.
 
 My practical experience covers:
-* **Battery Modeling & Simulation** (ECM, Impedance Spectroscopy)
-* **Engineering & CAD** (Support in construction & design)
-* **Software Skills** (MATLAB, R, Java)
+* **Software Skills** (MATLAB, Python, R, Java)
+* **Numerical Simulation** (Solving differential equations via Finite Difference Method, Bachelor Thesis)
+* **Battery Technology & Modeling** (Physical fundamentals, ECM)
+
 
 ---
 📧 **Contact:** [lorenz.adam@hotmail.de](mailto:lorenz.adam@hotmail.de)
