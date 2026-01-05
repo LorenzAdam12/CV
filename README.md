@@ -13,7 +13,7 @@ I am an **M.Sc. Applied Mathematics** student at the Karlsruhe Institute of Tech
 
 My practical experience covers:
 * **Software Skills** (MATLAB, Python, R, Java)
-* **Numerical Simulation** (Solving differential equations via Finite Difference Method, Bachelor Thesis)
+* **Numerical Simulation** (Solving differential equations, Bachelor Thesis)
 * **Battery Technology & Modeling** (Physical fundamentals, ECM)
 
 
